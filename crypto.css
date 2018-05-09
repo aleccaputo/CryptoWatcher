@@ -1,0 +1,33 @@
+.ticker-header{
+	text-align: center;
+}
+
+.ticker-prices {
+	padding-right: 50px;
+	size: 2em;
+	text-align: center;
+	background-color: LightGray;	
+}
+
+.ticker-prices:hover{
+	background-color: gray;
+	cursor: pointer;
+}
+
+.coin-images{
+	height: 20px;
+	width: auto;
+}
+
+.coin-text{
+	padding-bottom: 10px;
+}
+
+.navigation{
+	text-align: left;
+	padding-bottom: 50px;
+}
+
+.mining-title{
+	text-align: center;
+}
